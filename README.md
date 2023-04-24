@@ -1,6 +1,6 @@
 # GOOD: Exploring geometric cues for detecting objects in an open world
 
-This repository is the official implementation of [GOOD: Exploring geometric cues for detecting objects in an open world](https://arxiv.org/abs/2212.11720). 
+This repository is the official implementation of [GOOD: Exploring geometric cues for detecting objects in an open world](https://arxiv.org/abs/2212.11720) (ICLR 2023). 
 
 ## What is it?
 
